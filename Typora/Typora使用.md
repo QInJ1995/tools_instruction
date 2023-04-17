@@ -6,7 +6,7 @@
 
 ## 图片设置
 
-![image-20230412095014917](/Users/qinjin/Desktop/Typora/image/image-20230412095014917.png)
+![image-20230412095014917](./image/image-20230412095014917.png)
 
 ## 外观设置
 
@@ -14,7 +14,7 @@
 
 2、将下载的主题资源复制到下图打开文件：
 
-![image-20230412095411374](/Users/qinjin/Desktop/Typora/image/image-20230412095411374.png)
+![image-20230412095411374](./image/image-20230412095411374.png)
 
 # Typora基本使用
 
